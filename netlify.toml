@@ -1,0 +1,4 @@
+[[headers]]
+  for = "SimpleSQL.bundle.min.js"
+  [headers.values]
+  Access-Control-Allow-Origin = "simplesql.redbeardlab.com"
